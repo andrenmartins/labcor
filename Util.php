@@ -18,9 +18,9 @@ class Util {
 
     public function cabecalho() {
         echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-            <title>Labcor - Laboratório de Análises Clinica</title>
+            <title>Labcor - Laboratório de Análises clínicas</title>
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <meta name="description" content="Labcor - Laboratório de Análises Clinica">
+            <meta name="description" content="Labcor - Laboratório de Análises Clínicas">
             <meta name="author" content="Labcor">
 
 
@@ -93,13 +93,13 @@ class Util {
             <div class="row">
 
                 <div class="col-sm-4">
-                    <img class="img-responsive " src="img/labcor.png" class="img-rounded" alt="Labcor - Laboratório de Análises Clinica" width="300" height="" >
+                    <img class="img-responsive " src="img/labcor.png" class="img-rounded" alt="Labcor - Laboratório de Análises clínicas" width="300" height="" >
                     <p><br>R. Firmino Viêira Matos, 841 <br> Jardim America, Dourados - MS, 79804-010, Brazil</p>
                 </div>
                 <div class="col-sm-4">
                     <p> <img src="img/contact-icon-17_1.png" alt="icone-carta" width="35" height="30" ><b>CONTATO</b></p>
                     <hr>
-                    <p> <img src="img/icon-telefone.png" alt="icone-carta" width="35" height="30" >(67)3422-0858 / 3032-9628 / 9628-6718<img src="img/vivo.png" height="20" alt="vivo"/></p>
+                    <p> <img src="img/icon-telefone.png" alt="icone-carta" width="35" height="30" >(67)3032-0858 / 9628-6718<img src="img/vivo.png" height="20" alt="vivo"/></p>
                     <p> <img src="img/icone-carta.png" alt="icone-carta" width="35" height="30" >laboratoriolabcor@gmail.com</p>
 
 
@@ -109,12 +109,14 @@ class Util {
 
                     <p> <img src="img/icon-clock.png" alt="icone-carta" width="35" height="30" ><b>HORÁRIO DE ATENDIMENTO</b></p>
 
-                    <hr><p>Segunda à Sexta - 06:30 às 11:30 e das 13:00 às 17:00</p><br>
-                    Aceitamos cartões de debito <img src="img/cartoes.png" alt=""/>
+                    <hr><p>Segunda à Sexta - 06:30 às 17:00<br>
+                    Sábado 07:00 às 09:00 para coletas de sangue</p><br>
+
+                    Aceitamos cartões de debito <img src="img/cartoes.png" alt=""/> <br> pix: cnpj. 86.951.191\0001-92
                 </div>
             </div>
             <hr>
-            <p>Copyright &copy; Labcor - Laborátorio de Análises Clínica</p>
+            <p>Copyright &copy; Labcor - Laborátorio de Análises Clínicas</p>
             <!-- Footer -->
 
 
