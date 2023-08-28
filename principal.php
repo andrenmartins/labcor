@@ -35,18 +35,7 @@
                                     <h3><b>Laboratorio</b></h3>
                                     <p><b>Laboratorio de exames</b></p>
                                 </div>
-                            </div>
-
-                            <div class="item">
-                                <img src="imagens/laura.jpg" alt="Flower" width="460" height="345">
-                                <div class="carousel-caption">
-                                    <h3><b>Biomedicos</b></h3>
-                                    <div>
-
-                                        <p><b>Biomedicos responsaveis pelo laboratório</b></p>
-                                    </div>
-                                </div>
-                            </div>
+                            </div>               
 
                         </div>
 
@@ -79,15 +68,13 @@
                         <div class="text-center "><h3>PARCEIROS</h3></div>
                         <div class="well">
                             <a href="http://alvaro.com.br/" target="_blank"> <img src="imagens/parceiros/alvaro.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            </a><br><br>
-                            <a href="http://www.psychemedics.com.br/" target="_blank"> <img src="imagens/parceiros/logo-psy.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            </a><br><br>
-                            <a href="http://labet.com.br/" target="_blank"> <img src="imagens/parceiros/logo_labet.jpg" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            </a><br><br>
-                            <a href="http://www.laboratoriosodre.com.br" target="_blank"> <img src="imagens/parceiros/logo_sodre-lab.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            </a><br><br>
-                            <a href="http://www.unilabor.com.br/" target="_blank"> <img src="imagens/parceiros/uni.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            </a><br>
+                            </a>
+                        
+                            <a href="https://www.hermespardini.com.br/" target="_blank"> <img src="imagens/parceiros/pardini2.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
+                            </a>
+                       
+                            <a href="https://www.chromatox.com.br/" target="_blank"> <img src="imagens/parceiros/chromatox.jpeg" class="img-responsive" style="width:100%" height="5%"alt="Image">
+    </a>
                         </div>
                     </div>
 
@@ -133,14 +120,17 @@
                             <br>
                             <img src="imagens/convenios/cassems.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
                             <br>
-                            <img src="imagens/convenios/correios.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            </a><br>
-                            <img src="imagens/convenios/cassi.jpg" class="img-responsive" style="width:100%" height="5%"alt="Image">
-                            <br>
                             <img src="imagens/convenios/OAB.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
                             <br>
                             <img src="imagens/convenios/nipo.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
                             <br>
+                            <img src="imagens/convenios/pax.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
+                            <br>
+                            <img src="imagens/convenios/materdei.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
+                            <br>
+                            <img src="imagens/convenios/sindicato_rural.png" class="img-responsive" style="width:100%" height="5%"alt="Image">
+                            <br>
+                            
                         </div>
                     </div>
                 </div>
