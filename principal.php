@@ -14,7 +14,7 @@
                         <div class="carousel-inner" style="margin-top: 0%;" role="listbox">
 
                             <div class="item active">
-                                <img src="imagens/1.jpg" alt="Chania" width="460" height="345">
+                                <img src="imagens/01.webp" alt="Chania" width="460" height="345">
                                 <div class="carousel-caption">
                                     <h3><b>Labcor</b></h3>
                                     <p><b>Labcor Laboratório de Análises Clínicas</b></p>
@@ -30,12 +30,25 @@
                             </div>
 
                             <div class="item">
-                                <img src="imagens/2.jpg" alt="Flower" width="460" height="345">
+                                <img src="imagens/02.webp" alt="Flower" width="460" height="345">
                                 <div class="carousel-caption">
-                                    <h3><b>Laboratorio</b></h3>
-                                    <p><b>Laboratorio de exames</b></p>
+                                    <h3><b>Atendimento</b></h3>
+                                    <p><b>Amplo espaço para seu melhor conforto</b></p>
                                 </div>
                             </div>               
+                            <div class="item">
+                                <img src="imagens/03.webp" alt="Flower" width="460" height="345">
+                                <div class="carousel-caption">
+                                    <p><b>Sala de coleta</b></p>
+                                </div>
+                            </div>       
+                            <div class="item">
+                                <img src="imagens/04.webp" alt="Flower" width="460" height="345">
+                                <div class="carousel-caption">
+                                    <p><b>sala de coleta</b></p>
+                                </div>
+                            </div>               
+        
 
                         </div>
 
@@ -102,7 +115,7 @@
                             <h3 class="text-capitalize text-center">QUEM SOMOS</h3>
                             <p class="text-justify lead">Localizado em Dourados, na Rua Firmino Vieira de Matos, nº 841, o Labcor vem se destacando pela agilidade e seriedade com que realiza seus trabalhos. Possui aparelhos modernos, que permitem o processamento das análises de sangue, urina e fezes de forma precisa, além do oferecimento de resultados com extrema rapidez.</p> <p class="text-justify lead">
                                 O Labcor conta com um quadro de técnicos qualificados, sendo a maioria especializada na área de análises clínicas. O ambiente físico está totalmente adaptado às exigências dos órgãos fiscalizadores, oferecendo, assim, segurança e conforto aos técnicos e aos pacientes.</p> <p class="text-justify lead">
-                                O Labcor atende pacientes ligados a vários convênios, como UNIMED, CASSEMS,MATERDEI, PAX,OESTE SAÚDE, SINDICATO RURAL, OAB E NIPOASSIST, e realiza coleta domiciliar em pacientes idosos ou com doenças que dificultam o acesso pessoal ao laboratório. Aos pacientes que não possuem planos de saúde, são oferecidos preços bastante acessíveis.</p> <p class="text-justify lead">
+                                O Labcor atende pacientes ligados a vários convênios, como UNIMED, CASSEMS, MATERDEI, PAX, SINDICATO RURAL, OAB E NIPOASSIST, e realiza coleta domiciliar em pacientes idosos ou com doenças que dificultam o acesso pessoal ao laboratório. Aos pacientes que não possuem planos de saúde, são oferecidos preços bastante acessíveis.</p> <p class="text-justify lead">
                                 Desde a sua criação, em 1994, o Labcor vem se modernizando, com a finalidade de oferecer, aos pacientes, serviços da mais alta qualidade, e visando colaborar com os tratamentos de saúde desses pacientes.</p> <p class="text-justify lead bg-info">
                                 Venha para o Labcor e garanta exames de qualidade para você e sua família.</p>
 
