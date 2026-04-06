@@ -49,7 +49,7 @@ class Util {
                     <a id="homeb" onclick="carregar(\'principal.php\')"href="#" ><img class="img-responsive " src="img/labcor.png" class="img-rounded" alt="Cinque Terre" width="300" height="" ></a>
                 </div>
                 <div class="col-sm-3 pull-right">
-                    <a href="http://labcor.laborlis.online/"><img class="img-responsive " src="img/resultado.png" class="img-rounded" alt="Cinque Terre" width="300" height="" ></a>
+                    <a href="http://170.254.99.199:8080/ConcentWeb/servlet/hlab8000"><img class="img-responsive " src="img/resultado.png" class="img-rounded" alt="Cinque Terre" width="300" height="" ></a>
                 </div>
             </div>
         </div>
